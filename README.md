@@ -14,7 +14,7 @@ Completed features:
  - Bootstrap
  - Working kernel
 
-#install & compile linux
+# install & compile linux
 
 //Install tools
 
